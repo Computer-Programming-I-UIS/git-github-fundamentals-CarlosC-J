@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Carlos Fernando Carreño Jerez 
 
 ## 🤓 Course overview and learning outcomes 
 
